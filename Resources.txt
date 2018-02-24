@@ -1,0 +1,13 @@
+Developing Android Apps - Udacity course
+*I think this is the course Denver was talking about initially, with the weather app.
+https://www.udacity.com/course/new-android-fundamentals--ud851
+
+Android Basics: User Input
+*Second course in the basics series. First is on views and on XML, and there's three more
+*in the series. A lot slower paced than the DAA course
+https://www.udacity.com/course/android-basics-user-input--ud836
+
+
+Android Developers Guide to MediaRecorder Class
+*Maybe something we'll end up using to capture audio?
+https://developer.android.com/guide/topics/media/mediarecorder.html
