@@ -11,3 +11,7 @@ https://www.udacity.com/course/android-basics-user-input--ud836
 Android Developers Guide to MediaRecorder Class
 *Maybe something we'll end up using to capture audio?
 https://developer.android.com/guide/topics/media/mediarecorder.html
+
+Google's Speech-To-Text API
+*Haven't checked it out fully
+https://cloud.google.com/speech/
