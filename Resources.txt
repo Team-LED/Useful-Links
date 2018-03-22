@@ -15,3 +15,6 @@ https://developer.android.com/guide/topics/media/mediarecorder.html
 Google's Speech-To-Text API
 *Haven't checked it out fully
 https://cloud.google.com/speech/
+
+Icons
+https://material.io/icons/#ic_play_arrow
